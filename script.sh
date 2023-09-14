@@ -6,3 +6,4 @@ echo "OHH Nice,Welcome to Etech Devops master class $name and you are also welco
 echo "End of script"
 #this is just for demo
 echo "this is git on visual studio code"
+#Kindly review this engr Elvis
